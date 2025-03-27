@@ -1,5 +1,8 @@
 # LB_259
 
+## Datensatz Link
+https://www.kaggle.com/datasets/camnugent/california-housing-prices
+
 ## Datensatz: California House Price
 Der Datensatz enthält Informationen über Wohngebiete in Kalifornien. Er umfasst verschiedene Merkmale wie Einkommen, Bevölkerungszahlen und geografische Lage.
 - median_house_value – Durchschnittlicher Hauspreis in USD
